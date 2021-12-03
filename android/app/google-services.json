@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058805481374",
+    "project_id": "chat-app-da245",
+    "storage_bucket": "chat-app-da245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058805481374:android:bb79576df3cf4b6ebbe08f",
+        "android_client_info": {
+          "package_name": "com.saivignesh.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058805481374-e624b4e361qh1qna2t8eth3d0kmbedf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg0uTbNyOWU6GYiCRcJoraE03_xBpUKx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058805481374-e624b4e361qh1qna2t8eth3d0kmbedf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
